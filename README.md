@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sbt-logo.png" alt="Security Blue Team Logo" width="150">
+  <img src="assets/ABT.png" alt="Security Blue Team Logo" width="150">
 </p>
 
 <h1 align="center">🎯 Introduction to Threat Hunting</h1>
