@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/sbt-logo.png" alt="Security Blue Team Logo" width="150">
+  <img src="https://img.shields.io/badge/Security_Blue_Team-Threat_Hunting-00CED1?style=for-the-badge" alt="Security Blue Team">
 </p>
 
-# 🎯 Introduction to Threat Hunting
+<h1 align="center">🎯 Introduction to Threat Hunting</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security_Blue_Team-Certified-0078D4?style=flat" alt="SBT">
